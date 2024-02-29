@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "1209f2deaee59da839e8484edac70c54cf8ce392",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2024-01-30 11:29:46",
+    "files": 2,
+    "merge": false,
+    "message": "Fix version\n"
+  },
+  "repo": "https://github.com/r-lib/commonmark",
+  "pkg": "commonmark"
+}
