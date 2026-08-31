@@ -1,0 +1,4 @@
+# License
+
+    YEAR: 2021
+    COPYRIGHT HOLDER: Jeroen Ooms; John MacFarlane; Vicent Martí; Github, Inc; Karl Dubost; Mathieu Duponchelle

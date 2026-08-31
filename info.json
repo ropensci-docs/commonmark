@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "6c29d2ceb408bef07012b69c45dc7e31ed8b2eaa",
+    "author": "Yihui Xie <xie@yihui.name>",
+    "time": "2025-07-07T12:31:35Z",
+    "files": 5,
+    "merge": false,
+    "message": "Implement LaTeX footnotes using `\\footnotemark` and `\\footnotetext` (#32)\n\n* use \\footnotetext and \\footnotemark to implement LaTeX footnotes\n\n* git diff be62b2b26a06e0143144a444740f86491e4413ce c3be50ec6d2cbef983d68dbab16cde8c91a1c7a8 > src/patches/latex-footnotes.diff\n\n* add tests, news, and bump version\n\n---------\n\nCo-authored-by: Jeroen Ooms <jeroenooms@gmail.com>"
+  },
+  "repo": "https://github.com/r-lib/commonmark",
+  "pkg": "commonmark",
+  "time": "2026-08-31T10:07:00Z"
+}
